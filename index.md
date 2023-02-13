@@ -6,6 +6,7 @@ layout: page
 ---
 
 ## The Process
+<img style="float: left; width: 30%; padding: 10px" src="assets/bird.png">
 How does a new Livery Company begin?
 - A Livery Company evolves from first being a Guild. This requires a minimum of 25 members and some £20 000 in reserves. Once established there is an application to the court of Alderman to become a Company without Livery. This would require about 100 members and a charity account with a minimum of £150 000.
 - Over four years there would need to be an increase in reserves to a current account of £300 000 and a rise in membership, that would be limited to 300-350.
